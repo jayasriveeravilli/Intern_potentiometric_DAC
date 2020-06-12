@@ -5,7 +5,7 @@ The slightly modified version of Kelvin DAC is the potentiometric DAC or Digital
 
 2 Bit potentiometric takes 2-bit digital data and converts into analog signal.
 
-## STEPS TO INSTALL MULTISIM
+## STEPS TO INSTALL MULTISIM ON WINDOWS
 1) Go to ni.com/multisim and click on the Download NI Multisim.
 2) Choose the version,icense and them then Download in the Multisim Education Edition tab.
 3) Once the download finishes, open it from where you saved it.
@@ -14,7 +14,7 @@ The slightly modified version of Kelvin DAC is the potentiometric DAC or Digital
 6) Extract the file to the drive you want.
 7) Click on NI circuit design suite 14.0 and the installation will be done.
 
-## STEPS TO DRAW AND RUN SCHEMATIC ON MULTISIM IN WINDOWS
+## STEPS TO DRAW AND RUN SCHEMATIC ON WINDOWS
 1) Open Multisim and create a new project .
 2) Draw the schematic and save it.
 3) Click on Simulate -> Analysis -> Analyses and simulation, choose the analysis you need and enter the values and parameters to be displayed.
