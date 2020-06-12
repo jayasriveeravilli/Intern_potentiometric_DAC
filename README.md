@@ -6,11 +6,11 @@ The slightly modified version of Kelvin DAC is the potentiometric DAC or Digital
 2 Bit potentiometric takes 2-bit digital data and converts into analog signal.
 
 ## STEPS TO INSTALL MULTISIM
-1)Go to ni.com/multisim and click on the Download NI Multisim 
+1)Go to ni.com/multisim and click on the Download NI Multisim.
 2)Choose the version,icense and them then Download in the Multisim Education Edition tab.
 3)Once the download finishes, open it from where you saved it.
 4)Choose the directory to download the Multisim Installer.
-5)Then, open it and run. This will make you to extract the Multisim installer
+5)Then, open it and run. This will make you to extract the Multisim installer.
 6)Extract the file to the drive you want.
 7)Click on NI circuit design suite 14.0 and the installation will be done.
 
