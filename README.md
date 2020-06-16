@@ -33,4 +33,4 @@ The slightly modified version of Kelvin DAC is the potentiometric DAC or Digital
 * JAYASRI VEERAVILLI B.tech-Electronics and Communication Engineering,SRM University,AP jayasriveeravilli@gmail.com
 * KUNAL GHOSH Director,VSD Corp.P77vt.Ltd. kunalghosh@gmail.com
 * PHILIPP GÜHRING Software Architect at LibreSilicon Association pg@futureware.at
-* DR. Gaurav Trivedi Co-Principal Investigator,ECIT Academy,IIT Guwahati trivedi@iitg.ac.in
+* Dr. GAURAV TRIVEDI Co-Principal Investigator, EICT Academy, and Associative Professor, EEE Department, IIT Huwahati trivedi@iitg.ac.in
