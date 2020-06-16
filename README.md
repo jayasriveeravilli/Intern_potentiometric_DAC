@@ -16,8 +16,9 @@ The slightly modified version of Kelvin DAC is the potentiometric DAC or Digital
 
 ## STEPS TO DRAW AND RUN SCHEMATIC ON WINDOWS
 1) Open Multisim and create a new project .
-![Screenshot (223)](https://user-images.githubusercontent.com/40025087/84753411-996dd780-afdc-11ea-9dbd-418f1aa6ea15.png)
+
 2) Draw the schematic and save it.
+
 3) Click on Simulate -> Analysis -> Analyses and simulation, choose the analysis you need and enter the values and parameters to be displayed.
 4) Save it and Run.
 5) The outputs will be displayed.
