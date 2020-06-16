@@ -15,8 +15,8 @@ The slightly modified version of Kelvin DAC is the potentiometric DAC or Digital
 7) Click on NI circuit design suite 14.0 and the installation will be done.
 
 ## STEPS TO DRAW AND RUN SCHEMATIC ON WINDOWS
-1) Open Multisim and create a new project .
 
+1) Open Multisim and create a new project .
 ![Screenshot (225)](https://user-images.githubusercontent.com/40025087/84753827-244ed200-afdd-11ea-9e06-c52e98cc7204.png)
 ![Screenshot (223)](https://user-images.githubusercontent.com/40025087/84754142-90313a80-afdd-11ea-9e3c-33187326f9c7.png)
 2) Draw the schematic and save it.
