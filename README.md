@@ -15,15 +15,18 @@ The slightly modified version of Kelvin DAC is the potentiometric DAC or Digital
 7) Click on NI circuit design suite 14.0 and the installation will be done.
 
 ## STEPS TO DRAW AND RUN SCHEMATIC ON WINDOWS
-
 1) Open Multisim and create a new project .
 ![Screenshot (225)](https://user-images.githubusercontent.com/40025087/84753827-244ed200-afdd-11ea-9e06-c52e98cc7204.png)
 ![Screenshot (223)](https://user-images.githubusercontent.com/40025087/84754142-90313a80-afdd-11ea-9e3c-33187326f9c7.png)
 2) Draw the schematic and save it.
-3) Click on Simulate -> Analysis -> Analyses and simulation, choose the analysis you need and enter the values and parameters to be displayed.
-4) Save it and Run.
-5) The outputs will be displayed.
-6) For spice netlist, export it and save the .cir extension.
+3) Click on Simulate -> Analysis -> Analyses and simulation.
+![Screenshot (231)](https://user-images.githubusercontent.com/40025087/84755157-f23e6f80-afde-11ea-92b9-3165442ed16a.png)
+4) Choose the analysis you need and enter the values and parameters to be displayed.
+![Screenshot (232)](https://user-images.githubusercontent.com/40025087/84755828-b2c45300-afdf-11ea-970e-c3f21322e12e.png)
+5) Save it and Run.
+![Screenshot (233)](https://user-images.githubusercontent.com/40025087/84756148-0cc51880-afe0-11ea-910e-5f4b1ce8ab7f.png)
+6) The outputs will be displayed.
+7) For spice netlist, export it and save the .cir extension.
 
 
 ## CONTACT INFORMATION
