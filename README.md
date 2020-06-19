@@ -15,7 +15,7 @@ Digital to Analog converter(DAC) is a device that converts the digital signals t
 ![Screenshot (33)](https://user-images.githubusercontent.com/40025087/85165589-afe98c80-b283-11ea-8ae8-c4215b86864e.png)
 
 2) Open the schematic and design the circuit .
-![Screenshot (1)](https://user-images.githubusercontent.com/40025087/85165821-0787f800-b284-11ea-80ab-c05095f6c998.png)
+![Screenshot (46)](https://user-images.githubusercontent.com/40025087/85173604-3fe20300-b291-11ea-9ce6-7d15756764f7.png)
 
 3) After designing, 'Annotate the schematic componets' to perform the numbering of components. If cannot undone it again.
 ![Screenshot (11)](https://user-images.githubusercontent.com/40025087/85166170-8715c700-b284-11ea-834b-7d58d8ba8b25.png)
