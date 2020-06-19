@@ -17,15 +17,16 @@ Digital to Analog converter(DAC) is a device that converts the digital signals t
 2) Open the schematic and design the circuit .
 ![Screenshot (46)](https://user-images.githubusercontent.com/40025087/85173604-3fe20300-b291-11ea-9ce6-7d15756764f7.png)
 
-3) After designing, 'Annotate the schematic componets' to perform the numbering of components. If cannot undone it again.
+3) After designing, 'Annotate the schematic components' to perform the annotations of components. It cannot be undone again.
 ![Screenshot (11)](https://user-images.githubusercontent.com/40025087/85166170-8715c700-b284-11ea-834b-7d58d8ba8b25.png)
 
-4) Then, perform 'Electrical rules check' to esure that the circuit is error free.
+4) Then, 'Perform electrical rules check' to ensure that the circuit is error free.
 ![Screenshot (43)](https://user-images.githubusercontent.com/40025087/85173062-fe9d2380-b28f-11ea-9e4f-84dff3d1d6d9.png)
 
-5) Now, click on 'generate netlist' , choose spice.
+5) Now, click on 'generate netlist' .
 ![Screenshot (42)](https://user-images.githubusercontent.com/40025087/85172693-38215f00-b28f-11ea-9420-6f8511e1a9f2.png)
 
+6) Select Spice -> Default -> Generate.
 ![Screenshot (36)](https://user-images.githubusercontent.com/40025087/85167302-3dc67700-b286-11ea-9996-666e31e0a0a4.png)
 
 6) Save the .cir file
@@ -53,7 +54,7 @@ Digital to Analog converter(DAC) is a device that converts the digital signals t
 13) A dialogue box appears showing 'The Kicad to Ngspice Conversion completed successfully'. Click 'OK'.
 ![Screenshot (40)](https://user-images.githubusercontent.com/40025087/85171495-c1836200-b28c-11ea-8691-f9e49c23b1ef.png)
 
-14) Now to get the plots of output wavefroms, select 'Simulation' . The matlab pots of the signals will be obtained.
+14) Now to get the plots of output wavefroms, select 'Simulation' . The matlab plots of the signals will be obtained.
 ![Screenshot (22)](https://user-images.githubusercontent.com/40025087/85171809-5a19e200-b28d-11ea-86eb-acb40e0920cf.png)
 
 ![Screenshot (41)](https://user-images.githubusercontent.com/40025087/85171983-bda40f80-b28d-11ea-8d11-1ac9a249497d.png)
