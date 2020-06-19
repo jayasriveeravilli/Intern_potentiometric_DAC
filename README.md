@@ -29,7 +29,7 @@ Digital to Analog converter(DAC) is a device that converts the digital signals t
 7) Refresh the project , you can see schematic and .cir files along with the 'proj' files.
 ![Screenshot (15)](https://user-images.githubusercontent.com/40025087/85168245-b1b54f00-b287-11ea-9481-fda094542d0a.png)
 8) Now select the 'Convert KiCad to Ngspice' 
-![Screenshot (16)](https://user-images.githubusercontent.com/40025087/85168837-8c751080-b288-11ea-8c89-f7c4928caa55.png)
+![Screenshot (44)](https://user-images.githubusercontent.com/40025087/85173358-b6323580-b290-11ea-81c8-ca550173f97b.png)
 9) In 'Analysis', select the transient analysis and enter start time, step time , stop time
 ![Screenshot (17)](https://user-images.githubusercontent.com/40025087/85169231-21780980-b289-11ea-8c9c-48f891a8a73a.png)
 10) In 'Source details' and enter the parameters for the sources. 
