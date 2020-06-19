@@ -20,7 +20,7 @@ Digital to Analog converter(DAC) is a device that converts the digital signals t
 4) Then, perform 'Electrical rules check' to esure that the circuit is error free.
 ![Screenshot (34)](https://user-images.githubusercontent.com/40025087/85166442-eb388b00-b284-11ea-8ca9-47046e8f03aa.png)
 5) Now, click on 'generate netlist' , choose spice.
-![Screenshot (35)](https://user-images.githubusercontent.com/40025087/85166818-7580ef00-b285-11ea-8c33-b476ab519667.png)
+![Screenshot (42)](https://user-images.githubusercontent.com/40025087/85172693-38215f00-b28f-11ea-9420-6f8511e1a9f2.png)
 
 ![Screenshot (36)](https://user-images.githubusercontent.com/40025087/85167302-3dc67700-b286-11ea-9996-666e31e0a0a4.png)
 
