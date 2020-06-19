@@ -21,6 +21,7 @@ Digital to Analog converter(DAC) is a device that converts the digital signals t
 ![Screenshot (34)](https://user-images.githubusercontent.com/40025087/85166442-eb388b00-b284-11ea-8ca9-47046e8f03aa.png)
 5) Now, click on 'generate netlist' , choose spice.
 ![Screenshot (35)](https://user-images.githubusercontent.com/40025087/85166818-7580ef00-b285-11ea-8c33-b476ab519667.png)
+
 ![Screenshot (36)](https://user-images.githubusercontent.com/40025087/85167302-3dc67700-b286-11ea-9996-666e31e0a0a4.png)
 6) Save the .cir file
 ![Screenshot (37)](https://user-images.githubusercontent.com/40025087/85167786-ff7d8780-b286-11ea-9e8f-a499cb08eeb2.png)
