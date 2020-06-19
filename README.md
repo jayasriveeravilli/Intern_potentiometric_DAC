@@ -1,9 +1,7 @@
-# 2-BIT-POTENTIOMETRIC-DAC
+# POTENTIOMETRIC-DAC
 Digital to Analog converter(DAC) is a device that converts the digital signals to analog signals. It reconstructs the sampled data into an analog signal . The digital data might be produced from Field programmable gate array(FPGA) or a microprocessor or Application specific integrated circuit(ASIC) but in order to interact with the real world, the data requires conversion to analog signal.DAC converter have various architectures like Kelvin divider (String DAC), Segmented string DAC and Digital potentiometer (slightly modified Kelvin DAC).
 
 The slightly modified version of Kelvin DAC is the potentiometric DAC or Digital potentiometer.The major difference between Kelvin DAC and potentiometric DAC is that the lower arm of the potentiometer is not connected to ground, it is instead left floating.
-
-2 Bit potentiometric takes 2-bit digital data and converts into analog signal.
 
 ## STEPS TO INSTALL MULTISIM ON WINDOWS
 1) Go to ni.com/multisim and click on the Download NI Multisim.
