@@ -70,11 +70,11 @@ Digital to Analog converter(DAC) is a device that converts the digital signals t
 ![Screenshot (48)](https://user-images.githubusercontent.com/40025087/85193159-aabc2a00-b2e3-11ea-9fbc-c483084c4d76.png)
 
 ## Waveforms
-### Waveform of LSB of digital input (V1)
+* Waveform of LSB of digital input (V1)
 ![V1](https://user-images.githubusercontent.com/40025087/85193184-dccd8c00-b2e3-11ea-9ad6-63ad62dbedaf.png)
-### Waveform of MSB of digital input (V2)
+* Waveform of MSB of digital input (V2)
 ![V2](https://user-images.githubusercontent.com/40025087/85193208-05558600-b2e4-11ea-8058-6b9876cc07df.png)
-### Waveform of analog output (Vout)
+* Waveform of analog output (Vout)
 ![Vout](https://user-images.githubusercontent.com/40025087/85193237-3f268c80-b2e4-11ea-87cb-78e92472547a.png)
 
 ## Contact Information
