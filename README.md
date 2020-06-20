@@ -79,6 +79,11 @@ Digital to Analog converter(DAC) is a device that converts the digital signals t
 * Waveform of analog output (Vout)
 ![Vout](https://user-images.githubusercontent.com/40025087/85193237-3f268c80-b2e4-11ea-87cb-78e92472547a.png)
 
+# Steps to run the .cir.out file
+1) Download the POTENTIOMETRIC-DAC.cir.out file from the uploaded files in repository and set directory to save the file.
+2) Open the ngspice.
+3) To simulate, type ngspice 1->POTENTIOMETRIC-DAC.cir.out, you will get the waveforms.
+
 ## Contact Information
 * JAYASRI VEERAVILLI B.tech-Electronics and Communication Engineering, SRM University, AP jayasriveeravilli@gmail.com
 * KUNAL GHOSH Director,VSD Corp.Pvt.Ltd. kunalpghosh@gmail.com
