@@ -66,7 +66,7 @@ Digital to Analog converter(DAC) is a device that converts the digital signals t
 16) You can plot the python graph by selecting the signals you need to display.
 ![Screenshot (31)](https://user-images.githubusercontent.com/40025087/85172278-5470cc00-b28e-11ea-9cbf-db946b16cab0.png)
 
-## SCHEMATIC
+## Schematic
 ![Screenshot (48)](https://user-images.githubusercontent.com/40025087/85193159-aabc2a00-b2e3-11ea-9fbc-c483084c4d76.png)
 
 ## Waveforms
