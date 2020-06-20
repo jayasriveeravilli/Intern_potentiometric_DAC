@@ -66,6 +66,17 @@ Digital to Analog converter(DAC) is a device that converts the digital signals t
 16) You can plot the python graph by selecting the signals you need to display.
 ![Screenshot (31)](https://user-images.githubusercontent.com/40025087/85172278-5470cc00-b28e-11ea-9cbf-db946b16cab0.png)
 
+## SCHEMATIC
+![Screenshot (48)](https://user-images.githubusercontent.com/40025087/85193159-aabc2a00-b2e3-11ea-9fbc-c483084c4d76.png)
+
+## Waveforms
+### Waveform of LSB of digital input (V1)
+![V1](https://user-images.githubusercontent.com/40025087/85193184-dccd8c00-b2e3-11ea-9ad6-63ad62dbedaf.png)
+### Waveform of MSB of digital input (V2)
+![V2](https://user-images.githubusercontent.com/40025087/85193208-05558600-b2e4-11ea-8058-6b9876cc07df.png)
+### Waveform of analog output (Vout)
+![Vout](https://user-images.githubusercontent.com/40025087/85193237-3f268c80-b2e4-11ea-87cb-78e92472547a.png)
+
 ## Contact Information
 * JAYASRI VEERAVILLI B.tech-Electronics and Communication Engineering, SRM University, AP jayasriveeravilli@gmail.com
 * KUNAL GHOSH Director,VSD Corp.Pvt.Ltd. kunalpghosh@gmail.com
