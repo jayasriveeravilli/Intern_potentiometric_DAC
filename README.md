@@ -1,8 +1,8 @@
 # Introduction
-### 10 bit potentiometric DAC 3.3v analog voltage, 1.8v digital voltage and 1 0ff-chip external voltage reference@osu180nm
+### 10 bit potentiometric DAC 3.3v analog voltage, 1.8v digital voltage and 1 off-chip external voltage reference@osu180nm
+This project aims to design a 'potentiometric digital-to-analog converter' with given specifications using open source EDA tool and 180nm(@osu180nm) technology.
 
-
-## POTENTIOMETRIC-DAC
+## Potentiometric Digital-to-analog converter
 Digital to Analog converter(DAC) is a device that converts the digital signals to analog signals. It reconstructs the sampled data into an analog signal . The digital data might be produced from Field programmable gate array(FPGA) or a microprocessor or Application specific integrated circuit(ASIC) but in order to interact with the real world, the data requires conversion to analog signal.DAC converter have various architectures like Kelvin divider (String DAC), Segmented string DAC and Digital potentiometer (slightly modified Kelvin DAC).The slightly modified version of Kelvin DAC is the potentiometric DAC or Digital potentiometer.The major difference between Kelvin DAC and potentiometric DAC is that the lower arm of the potentiometer is not connected to ground, it is instead left floating.
 
 ## Installation 
