@@ -14,9 +14,9 @@ Digital to Analog converter(DAC) is a device that converts the digital signals t
 5) eSim icon will be created on deskop.
 6) Double click to run eSim.
 
-# Let us look at the designing of 2-bit potentiometric-DAC circuit.
+## Let us look at the designing of 2-bit potentiometric-DAC circuit.
 
-##  Designing the circuit in eSim
+###  Designing the circuit in eSim
 1) Open eSim and create a new project and enter the project name
 ![Screenshot (33)](https://user-images.githubusercontent.com/40025087/85165589-afe98c80-b283-11ea-8ae8-c4215b86864e.png)
 
