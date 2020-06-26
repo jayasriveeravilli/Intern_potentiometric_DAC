@@ -113,6 +113,6 @@ R4 N005 outpin 0.625k
 *.lib C:\Users\drsur\Documents\LTspiceXVII\lib\cmp\standard.mos
 * 9b
 * 9b
-.tran 0 4 0 0.2
+.tran 2e-0 20e-6 2e-6
 *.backanno
 .end
