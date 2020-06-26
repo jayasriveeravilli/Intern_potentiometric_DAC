@@ -84,16 +84,6 @@ Digital to Analog converter(DAC) is a device that converts the digital signals t
 2) Open the ngspice.
 3) To simulate, type ngspice 1->netlist.cir.out, you will get the waveforms.
 
-# PRE-LAYOUT characteristics
-## 0000000000
-![0000000000](https://user-images.githubusercontent.com/40025087/85852789-ed43a200-b7ce-11ea-8a22-59f190de316c.png)
-## 0000000001
-![0000000001](https://user-images.githubusercontent.com/40025087/85852844-119f7e80-b7cf-11ea-9341-ecbee6c2c6c4.png)
-## 0000000011
-![0000000011](https://user-images.githubusercontent.com/40025087/85852886-29770280-b7cf-11ea-87cb-665eb7bb8035.png)
-## 0000000111
-![0000000111](https://user-images.githubusercontent.com/40025087/85852954-4d3a4880-b7cf-11ea-88f1-26d32f01f7a4.png)
-
 ## Contact Information
 * JAYASRI VEERAVILLI B.tech-Electronics and Communication Engineering, SRM University, AP jayasriveeravilli@gmail.com
 * KUNAL GHOSH Director,VSD Corp.Pvt.Ltd. kunalpghosh@gmail.com
