@@ -80,9 +80,9 @@ Digital to Analog converter(DAC) is a device that converts the digital signals t
 ![Vout](https://user-images.githubusercontent.com/40025087/85193237-3f268c80-b2e4-11ea-87cb-78e92472547a.png)
 
 # Steps for Ngspice simulation
-1) Download the ngspice_10bit in repository and set directory to save the file.
+1) Download the netlist.cir.out in repository and set directory to save the file.
 2) Open the ngspice.
-3) To simulate, type ngspice 1->POTENTIOMETRIC-DAC.cir.out, you will get the waveforms.
+3) To simulate, type ngspice 1->netlist.cir.out, you will get the waveforms.
 
 # PRE-LAYOUT characteristics
 ## 0000000000
