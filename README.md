@@ -71,6 +71,13 @@ Digital to Analog converter(DAC) is a device that converts the digital signals t
 ## Schematic
 ![Screenshot (48)](https://user-images.githubusercontent.com/40025087/85193159-aabc2a00-b2e3-11ea-9fbc-c483084c4d76.png)
 
+## Layouts of resistors
+### Layout of 5k ohm resistor
+![5k_resistor_layout](https://user-images.githubusercontent.com/40025087/86124361-a6b8b500-baf8-11ea-9362-574a8db07e23.png)
+
+### Layout of 5k ohm resistor
+![10k_resistor_layout](https://user-images.githubusercontent.com/40025087/86124448-c7810a80-baf8-11ea-8f22-54a2bd651612.png)
+
 ## Waveforms
 * Waveform of LSB of digital input (V1)
 ![V1](https://user-images.githubusercontent.com/40025087/85193184-dccd8c00-b2e3-11ea-9ad6-63ad62dbedaf.png)
