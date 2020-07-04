@@ -86,10 +86,10 @@ Digital to Analog converter(DAC) is a device that converts the digital signals t
 
 ## Layouts of resistors
 ### Polyresistor
-![Screenshot_20200704-172346__01](https://user-images.githubusercontent.com/40025087/86512023-f3afca80-be1b-11ea-8277-d5b99f63f077.jpg)
+![Screenshot_20200704-172338__01](https://user-images.githubusercontent.com/40025087/86512024-f6aabb00-be1b-11ea-91d8-f5864db9568a.jpg)
 
 ### Spice file
-![Screenshot_20200704-172338__01](https://user-images.githubusercontent.com/40025087/86512024-f6aabb00-be1b-11ea-91d8-f5864db9568a.jpg)
+![Screenshot_20200704-172346__01](https://user-images.githubusercontent.com/40025087/86512023-f3afca80-be1b-11ea-8277-d5b99f63f077.jpg)
 
 ## Contact Information
 * JAYASRI VEERAVILLI B.tech-Electronics and Communication Engineering, SRM University, AP jayasriveeravilli@gmail.com
