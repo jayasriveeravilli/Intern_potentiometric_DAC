@@ -85,11 +85,11 @@ Digital to Analog converter(DAC) is a device that converts the digital signals t
 3) To simulate, type ngspice 1->netlist.cir.out, you will get the waveforms.
 
 ## Layouts of resistors
-### Layout of 5k ohm resistor
-![5k_resistor_layout](https://user-images.githubusercontent.com/40025087/86124361-a6b8b500-baf8-11ea-9362-574a8db07e23.png)
+### Polyresistor
+![Screenshot_20200704-172346__01](https://user-images.githubusercontent.com/40025087/86512023-f3afca80-be1b-11ea-8277-d5b99f63f077.jpg)
 
-### Layout of 5k ohm resistor
-![10k_resistor_layout](https://user-images.githubusercontent.com/40025087/86124448-c7810a80-baf8-11ea-8f22-54a2bd651612.png)
+### Spice file
+![Screenshot_20200704-172338__01](https://user-images.githubusercontent.com/40025087/86512024-f6aabb00-be1b-11ea-91d8-f5864db9568a.jpg)
 
 ## Contact Information
 * JAYASRI VEERAVILLI B.tech-Electronics and Communication Engineering, SRM University, AP jayasriveeravilli@gmail.com
