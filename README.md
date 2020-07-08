@@ -91,6 +91,9 @@ Digital to Analog converter(DAC) is a device that converts the digital signals t
 ### Spice file
 ![Screenshot_20200704-172346__01](https://user-images.githubusercontent.com/40025087/86512023-f3afca80-be1b-11ea-8277-d5b99f63f077.jpg)
 
+# LTSpice XVII installation
+Download [LTSpice XVII](https://www.analog.com/en/design-center/design-tools-and-calculators/ltspice-simulator.html)
+
 ## Contact Information
 * JAYASRI VEERAVILLI B.tech, Electronics and Communication Engineering, SRM University, AP jayasriveeravilli@gmail.com
 * BELLANA AVINASH NAIDU B.tech, Electronics and Instrumentation, NIT Rourkela avinashbellana@gmail.com
